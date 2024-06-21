@@ -21,4 +21,4 @@ To contribute to open source projects to benefit the community.
 I hope to contribute to both myself and other developers by sharing what I have learned on this journey and my projects on GitHub. Let's grow together in the coding world!
 
 To contact me: 
-- Dicord: php-neo
+- Discord: php-neo
